@@ -1,7 +1,7 @@
 ---
 name: Reportar um Bug
 about: Reporte um bug para ajudar a melhorar o código
-title: "[BUG]"
+title: ''
 labels: análise, bug
 assignees: fhansen87
 
